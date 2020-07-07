@@ -1,0 +1,39 @@
+All methods has prefix 'ss_'
+All structs / enums has prefix 'Ss'
+
+```
+stm_sound/
+  core/
+    ... wrapper for peripheral library & cmsis
+    device/
+      ... peripherai & cmsis lib
+  math/
+    ... math lib
+  dsp/
+    ... biquad filter, delay line
+  system/
+    ... system utility, boot logic etc...
+  bootloader/
+    ... bootloader
+  controller/
+    ... button, knob, touch pad ...
+  display/
+    ... oled display, led matrix
+  midi/
+    ... midi utility
+  clock/
+    ... clock timer, clock sync logic
+  seq/
+    ... sequencer
+  memory/
+    ... memory management
+  synth/
+    osc/
+      ... oscillators
+    fx/
+      ... effects
+    ctrl/
+      ... envelope, quantization etc...
+  util/
+    ... common utility, bitmagic etc ...
+```
