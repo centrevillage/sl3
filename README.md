@@ -1,4 +1,3 @@
-# sl3
+# STM Sound
 
-STM32 Low Layer Library.
-No boilerplate, No black magic. Pure C code.
+STM32 Low Layer Sound Library.
